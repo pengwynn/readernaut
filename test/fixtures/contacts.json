@@ -1,0 +1,109 @@
+{
+    "version": "1.0",
+    "page": 2,
+    "total_pages": 20,
+    "contacts": [
+
+    {
+        "user": {
+            "user_id": 6480,
+            "username": "spacecowboyian"
+        },
+        "reciprocal": "",
+        "created": "2009-11-11 14:07 CST",
+        "permalink": "http://readernaut.com/spacecowboyian/"
+    },
+
+    {
+        "user": {
+            "user_id": 4223,
+            "username": "Montylounge"
+        },
+        "reciprocal": "",
+        "created": "2009-10-08 10:44 CDT",
+        "permalink": "http://readernaut.com/Montylounge/"
+    },
+
+    {
+        "user": {
+            "user_id": 4957,
+            "username": "coleifer"
+        },
+        "reciprocal": "",
+        "created": "2009-10-07 15:06 CDT",
+        "permalink": "http://readernaut.com/coleifer/"
+    },
+
+    {
+        "user": {
+            "user_id": 5291,
+            "username": "poet145"
+        },
+        "reciprocal": "",
+        "created": "2009-09-18 0:18 CDT",
+        "permalink": "http://readernaut.com/poet145/"
+    },
+
+    {
+        "user": {
+            "user_id": 2793,
+            "username": "shoghon"
+        },
+        "reciprocal": "",
+        "created": "2009-09-12 23:33 CDT",
+        "permalink": "http://readernaut.com/shoghon/"
+    },
+
+    {
+        "user": {
+            "user_id": 5401,
+            "username": "laurakreeger"
+        },
+        "reciprocal": "",
+        "created": "2009-08-30 10:31 CDT",
+        "permalink": "http://readernaut.com/laurakreeger/"
+    },
+
+    {
+        "user": {
+            "user_id": 2962,
+            "username": "gus"
+        },
+        "reciprocal": "",
+        "created": "2009-08-07 23:35 CDT",
+        "permalink": "http://readernaut.com/gus/"
+    },
+
+    {
+        "user": {
+            "user_id": 109,
+            "username": "beshrkayali"
+        },
+        "reciprocal": "",
+        "created": "2009-08-05 10:36 CDT",
+        "permalink": "http://readernaut.com/beshrkayali/"
+    },
+
+    {
+        "user": {
+            "user_id": 3417,
+            "username": "doughellmann"
+        },
+        "reciprocal": "",
+        "created": "2009-08-05 10:36 CDT",
+        "permalink": "http://readernaut.com/doughellmann/"
+    },
+
+    {
+        "user": {
+            "user_id": 4724,
+            "username": "jstevens"
+        },
+        "reciprocal": "",
+        "created": "2009-07-31 15:50 CDT",
+        "permalink": "http://readernaut.com/jstevens/"
+    }
+
+    ]
+}
+

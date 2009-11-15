@@ -1,0 +1,260 @@
+{
+    "version": "1.0",
+    "page": 1,
+    "total_pages": 20,
+    "reader_books": [
+
+    {
+        "reader_book_id": 191852,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "The Housing Boom and Bust",
+            "subtitle": "",
+            "authors": {
+                "author": "Thomas Sowell"
+            },
+            "isbn": "0465018807",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/0465018807_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/0465018807_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/0465018807_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/0465018807/the-housing-boom-and-bust/"
+        },
+        "created": "2009-10-30 16:03 CDT",
+        "modified": "2009-10-30 16:03 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0465018807/the-housing-boom-and-bust/"
+    },
+
+    {
+        "reader_book_id": 182112,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "Designing for Interaction",
+            "subtitle": "Creating Innovative Applications and Devices",
+            "authors": {
+                "author": "Dan Saffer"
+            },
+            "isbn": "0321643399",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/0321643399_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/0321643399_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/0321643399_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/0321643399/designing-for-interaction/"
+        },
+        "created": "2009-10-08 10:22 CDT",
+        "modified": "2009-10-28 0:34 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0321643399/designing-for-interaction/"
+    },
+
+    {
+        "reader_book_id": 176505,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "Towards a New Architecture",
+            "subtitle": "",
+            "authors": {
+                "author": "Le Corbusier"
+            },
+            "isbn": "0486250237",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/0486250237_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/0486250237_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/0486250237_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/0486250237/towards-a-new-architecture/"
+        },
+        "created": "2009-09-23 1:35 CDT",
+        "modified": "2009-10-28 0:34 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0486250237/towards-a-new-architecture/"
+    },
+
+    {
+        "reader_book_id": 171889,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "AM/PM",
+            "subtitle": "",
+            "authors": {
+                "author": "Amelia Gray"
+            },
+            "isbn": "0977199274",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/0977199274_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/0977199274_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/0977199274_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/0977199274/ampm/"
+        },
+        "created": "2009-09-13 12:32 CDT",
+        "modified": "2009-09-13 12:32 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0977199274/ampm/"
+    },
+
+    {
+        "reader_book_id": 171887,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "Hot \x26 Cool",
+            "subtitle": "A Critical Symposium",
+            "authors": {
+                "author": "Marshall McLuhan"
+            },
+            "isbn": "B001NE0O76",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/B001NE0O76_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/B001NE0O76_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/B001NE0O76_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/B001NE0O76/hot-cool/"
+        },
+        "created": "2009-09-13 12:27 CDT",
+        "modified": "2009-09-13 12:27 CDT",
+        "permalink": "http://readernaut.com/nathan/books/B001NE0O76/hot-cool/"
+    },
+
+    {
+        "reader_book_id": 171886,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "From Cliche to Archetype",
+            "subtitle": "",
+            "authors": {
+                "author": "Marshall McLuhan",
+                "author": "Wilfred Watson"
+            },
+            "isbn": "B0028GH156",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/B0028GH156__t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/B0028GH156__t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/B0028GH156__t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/B0028GH156/from-cliche-to-archetype/"
+        },
+        "created": "2009-09-13 12:25 CDT",
+        "modified": "2009-11-14 11:22 CST",
+        "permalink": "http://readernaut.com/nathan/books/B0028GH156/from-cliche-to-archetype/"
+    },
+
+    {
+        "reader_book_id": 171885,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "The Bauhaus Ideal Then \x26 Now",
+            "subtitle": "An Illustrated Guide to Modern Design",
+            "authors": {
+                "author": "William Smock"
+            },
+            "isbn": "0897335902",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/0897335902_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/0897335902_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/0897335902_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/0897335902/the-bauhaus-ideal-then-now/"
+        },
+        "created": "2009-09-13 12:24 CDT",
+        "modified": "2009-10-20 10:24 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0897335902/the-bauhaus-ideal-then-now/"
+    },
+
+    {
+        "reader_book_id": 171884,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "Learning and Memory",
+            "subtitle": "",
+            "authors": {
+                "author": "Donald A. Norman"
+            },
+            "isbn": "0716713004",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/0716713004_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/0716713004_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/0716713004_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/0716713004/learning-and-memory/"
+        },
+        "created": "2009-09-13 12:23 CDT",
+        "modified": "2009-09-13 12:23 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0716713004/learning-and-memory/"
+    },
+
+    {
+        "reader_book_id": 171883,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "David Foster Wallace\x27s Infinite Jest",
+            "subtitle": "A Reader\x27s Guide",
+            "authors": {
+                "author": "Stephen Burn"
+            },
+            "isbn": "082641477X",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/082641477X_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/082641477X_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/082641477X_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/082641477X/david-foster-wallaces-infinite-jest/"
+        },
+        "created": "2009-09-13 12:23 CDT",
+        "modified": "2009-09-13 12:23 CDT",
+        "permalink": "http://readernaut.com/nathan/books/082641477X/david-foster-wallaces-infinite-jest/"
+    },
+
+    {
+        "reader_book_id": 171882,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "The Coming Insurrection",
+            "subtitle": "",
+            "authors": {
+                "author": "The Invisible Committee"
+            },
+            "isbn": "1584350806",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/1584350806_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/1584350806_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/1584350806_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/1584350806/the-coming-insurrection/"
+        },
+        "created": "2009-09-13 12:22 CDT",
+        "modified": "2009-09-13 12:22 CDT",
+        "permalink": "http://readernaut.com/nathan/books/1584350806/the-coming-insurrection/"
+    }
+
+    ]
+}
+

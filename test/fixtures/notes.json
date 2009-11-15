@@ -1,0 +1,282 @@
+{
+    "version": "1.0",
+    "page": 1,
+    "total_pages": 13,
+    "notes": [
+
+    {
+        "note_id": 11396,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "From Cliche to Archetype",
+            "subtitle": "",
+            "authors": {
+                "author": "Marshall McLuhan",
+                "author": "Wilfred Watson"
+            },
+            "isbn": "B0028GH156",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/B0028GH156__t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/B0028GH156__t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/B0028GH156__t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/B0028GH156/from-cliche-to-archetype/"
+        },
+        "body": "\x3EJust when the circulating libraries were disillusioning Samuel Taylor Coleridge with the world of novel, and distressing him with the spectacle of the corruption of taste and morals through this kind of entertainment, the newspaper was coming in as the new technological cliché. Lamartine, in 1830, said, \x22The book arrives too late.\x22 The daily newspaper he saw as a new technology, creating a liaison between the public and the writer every twenty\x2Dfour hours, whereas the book took weeks and months to establish the same relation. The speed with which the printed word now related public and the author turned the author into a corporate one, and this distressed people like John Stewart Mill, Carlyle, and Matthew Arnold, who saw the new situation as tragic. But just when the press had established this new cliché form of corporate perception, the probing scholars were already reaching back to retrieve a mythic, and corporate, tribal past through archaeology and anthropology. ",
+        "allow_comments": true,
+        "tags": "media, newspapers, author, communication, mcluhan",
+        "created": "2009-11-14 11:30 CST",
+        "modified": "2009-11-14 11:30 CST"
+    },
+
+    {
+        "note_id": 11109,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "Sketching User Experiences",
+            "subtitle": "Getting the Design Right and the Right Design",
+            "authors": {
+                "author": "Bill Buxton"
+            },
+            "isbn": "0123740371",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/0123740371__t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/0123740371__t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/0123740371__t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/0123740371/sketching-user-experiences/"
+        },
+        "body": "\x3EIf you want to get the most out of a sketch, you need to leave big enough holes. Ambiguity creates the holes. It is what enables a sketch to be interpreted in different ways, even by the person who created it. One of the key purposes of sketching in the ideation phase of design is to provide a catalyst to stimulate new and different interpretations. Hence, sketching is fundamental to the cognitive process of design, and it is manifest through a kind of conversation between the designer(s) and their sketches.",
+        "allow_comments": true,
+        "tags": "sketching, design, process",
+        "created": "2009-11-05 0:36 CST",
+        "modified": "2009-11-05 0:36 CST"
+    },
+
+    {
+        "note_id": 9570,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "Towards a New Architecture",
+            "subtitle": "",
+            "authors": {
+                "author": "Le Corbusier"
+            },
+            "isbn": "0486250237",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/0486250237_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/0486250237_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/0486250237_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/0486250237/towards-a-new-architecture/"
+        },
+        "body": "\x3ETools are the results of successive improvements\x3B the effort of all generations is embodied in them. The tool is the direct and immediate expression of progress\x3B it gives man essential assistance and essential freedom. We throw the out\x2Dof\x2Ddate tool on the scrap\x2Dheap: the carbine, the culverin, the growler and the locomotive. This action is a manifestation of health, of moral health, of _morale_\x3B it is not right that we should produce bad things  because of a bad tool\x3B nor is it right that we should waste our energy, our health and our courage because of a bad tool\x3B it must be thrown away and replaced.",
+        "allow_comments": true,
+        "tags": "architecture, design, tools",
+        "created": "2009-09-23 21:52 CDT",
+        "modified": "2009-09-23 21:52 CDT"
+    },
+
+    {
+        "note_id": 9157,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "The Information Bomb",
+            "subtitle": "",
+            "authors": {
+                "author": "Paul Virilio"
+            },
+            "isbn": "1844670597",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/1844670597_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/1844670597_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/1844670597_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/1844670597/the-information-bomb/"
+        },
+        "body": "\x3EThe true hero of the American utopia is neither the cowboy nor the soldier, but the pioneer, the pathfinder, the person who \x27takes his body to where his eyes have been.\x27",
+        "allow_comments": true,
+
+        "created": "2009-09-10 19:32 CDT",
+        "modified": "2009-09-10 19:32 CDT"
+    },
+
+    {
+        "note_id": 9156,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "The Information Bomb",
+            "subtitle": "",
+            "authors": {
+                "author": "Paul Virilio"
+            },
+            "isbn": "1844670597",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/1844670597_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/1844670597_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/1844670597_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/1844670597/the-information-bomb/"
+        },
+        "body": "\x3EThe Earth, that phantom limb, no longer extends as far as the eye can see\x3B it presents all aspects of itself for inspection in the strange little window. The sudden multiplication of \x27points of view\x27 merely heralds the latest globalization: the globalization of the gaze, of the single eye of the cyclops who governs the cave, that \x27black box\x27 which increasingly poorly conceals the great culminating moment of history, a history fallen victim to the syndrome of total accomplishment. ",
+        "allow_comments": true,
+
+        "created": "2009-09-10 19:31 CDT",
+        "modified": "2009-09-10 19:31 CDT"
+    },
+
+    {
+        "note_id": 9155,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "The Information Bomb",
+            "subtitle": "",
+            "authors": {
+                "author": "Paul Virilio"
+            },
+            "isbn": "1844670597",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/1844670597_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/1844670597_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/1844670597_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/1844670597/the-information-bomb/"
+        },
+        "body": "\x3ESince a picture is worth a thousand words, the aim of multimedia is to turn our old television into a kind of domestic telescope for seeing, for foreseeing (in a manner not unlike present weather\x2Dforecasting) the world that lies just around the corner.",
+        "allow_comments": true,
+
+        "created": "2009-09-10 19:27 CDT",
+        "modified": "2009-09-10 19:28 CDT"
+    },
+
+    {
+        "note_id": 8686,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "The Pleasures and Sorrows of Work",
+            "subtitle": "",
+            "authors": {
+                "author": "Alain De Botton"
+            },
+            "isbn": "037542444X",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/037542444X_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/037542444X_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/037542444X_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/037542444X/the-pleasures-and-sorrows-of-work/"
+        },
+        "body": "\x3EMost of us stand poised at the edge of brilliance, haunted by the knowledge of our proximity, yet still demonstrably on the wrong side of the line, our dealings with reality undermined by a range of minor yet critical psychological flaws (a little too much optimism, an unprocessed rebelliousness, a fatal impatience or sentimentality). We are like an exquisite high\x2Dspeed aircraft which for lack of a tiny part is left stranded beside the runway, rendered slower than a tractor or a bicycle.",
+        "allow_comments": true,
+
+        "created": "2009-08-15 12:43 CDT",
+        "modified": "2009-08-15 12:43 CDT"
+    },
+
+    {
+        "note_id": 8531,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "Utopia",
+            "subtitle": "Thomas More",
+            "authors": {
+                "author": "Sir",
+                "author": "Thomas",
+                "author": "Saint More"
+            },
+            "isbn": "0300084293",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/0300084293_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/0300084293_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/0300084293_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/0300084293/utopia/"
+        },
+        "body": "\x3E... the senate has a rule that no point is discussed on the same day it is brought up, but rather it is put off till the next meeting\x3B they do this so that someone who blurts out the first thing that occurs to him will not proceed to think up arguments to defend his position instead of looking for what is of use to the commonwealth, being willing to damage the public welfare rather than his own reputation, ashamed, as it were, in a perverse and wrong\x2Dheaded way, to admit that his first view was short\x2Dsighted. From the start such a person should have take care to speak with deliberation rather than haste.",
+        "allow_comments": true,
+        "tags": "discussion, arguments, haste",
+        "created": "2009-08-07 17:41 CDT",
+        "modified": "2009-08-07 17:41 CDT"
+    },
+
+    {
+        "note_id": 8313,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "Infinite Jest",
+            "subtitle": "",
+            "authors": {
+                "author": "David Foster Wallace"
+            },
+            "isbn": "0316066524",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/0316066524_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/0316066524_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/0316066524_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/0316066524/infinite-jest/"
+        },
+        "body": "\x3EThe true opponent, the enfolding boundary, is the player himself. Always and only the self out there, on court, to be met, fought, brought to the table to hammer out terms. The competing boy on the nets other side: his is not the foe: he is more the partner in the dance. He is the what is the word _excuse_ or _occasion_ for meeting the self. As you are his occasion. Tennis\x27s beauty\x27s infinite roots are self\x2Dcompetitive. You compete with your own limits to transcend the self in imagination and execution. Disappear inside the game: break through limits: transcend: improve: win. Which is why tennis is an essentially tragic enterprise, to improve and grow as a serious junior, with ambitions. You seek to vanquish and transcend the limited self whose limits make the game possible in the first place. It is tragic and sad and chaotic and lovely. All life is the same, as citizens of the human State: the animating limits are within, to be killed and mourned, over and over again.",
+        "allow_comments": true,
+        "tags": "tennis",
+        "created": "2009-07-30 3:37 CDT",
+        "modified": "2009-07-30 3:37 CDT"
+    },
+
+    {
+        "note_id": 8024,
+        "user": {
+            "user_id": 1,
+            "username": "nathan"
+        },
+        "book_edition": {
+            "title": "Infinite Jest",
+            "subtitle": "",
+            "authors": {
+                "author": "David Foster Wallace"
+            },
+            "isbn": "0316066524",
+            "covers": {
+                "cover_small": "http://media.readernaut.com/book_covers/0316066524_t50.jpg",
+                "cover_medium": "http://media.readernaut.com/book_covers/0316066524_t100.jpg",
+                "cover_large": "http://media.readernaut.com/book_covers/0316066524_t150.jpg"
+            },
+            "permalink": "http://readernaut.com/nathan/books/0316066524/infinite-jest/"
+        },
+        "body": "\x3ESome persons can give themselves away to an ambitious pursuit and have that be all the giving\x2Dthemselves\x2Daway\x2Dto\x2Dsomething thet need to do. Though sometimes this changes as the players get older and the pursuit more stress\x2Dfraught. American experience seems to suggest that people are virtually unlimited in their need to give themselves away, on various levels. Some just prefer to do it in secret. ",
+        "allow_comments": true,
+        "tags": "drugs, giving, experience",
+        "created": "2009-07-18 12:29 CDT",
+        "modified": "2009-07-18 12:29 CDT"
+    }
+
+    ]
+}
+
