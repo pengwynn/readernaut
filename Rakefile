@@ -6,7 +6,7 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "readernaut"
     gem.summary = %Q{Wrapper for the Readernaut API}
-    gem.description = %Q{Reader is the best book social network around}
+    gem.description = %Q{Wrapper for Readernaut, the best book social network around}
     gem.email = "wynn.netherland@gmail.com"
     gem.homepage = "http://github.com/pengwynn/readernaut"
     gem.authors = ["Wynn Netherland"]
