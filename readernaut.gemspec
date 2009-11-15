@@ -5,12 +5,12 @@
 
 Gem::Specification.new do |s|
   s.name = %q{readernaut}
-  s.version = "0.1.1"
+  s.version = "0.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Wynn Netherland"]
   s.date = %q{2009-11-14}
-  s.description = %q{Reader is the best book social network around}
+  s.description = %q{Wrapper for Readernaut, the best book social network around}
   s.email = %q{wynn.netherland@gmail.com}
   s.extra_rdoc_files = [
     "LICENSE",
@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/readernaut.rb",
+     "readernaut.gemspec",
      "test/fixtures/books.json",
      "test/fixtures/contacts.json",
      "test/fixtures/notes.json",
