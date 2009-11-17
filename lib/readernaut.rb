@@ -15,6 +15,10 @@ class Readernaut
     Mash.new self.get("/#{username}/books/", :query => options)
   end
   
+  def self.books_currently_reading(username, options={})
+    Mash.new self.get("/#{username}/books/reading/", :query => options)
+  end
+  
   def self.notes(username, options={})
     Mash.new self.get("/#{username}/notes/", :query => options)
   end
