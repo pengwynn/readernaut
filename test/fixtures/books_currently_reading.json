@@ -1,0 +1,262 @@
+{
+    "version": "1.0", 
+    "page": 1,
+  "total_pages": 2,
+    "reader_books": [
+      
+      {
+        "reader_book_id": 176505,
+        "user": {
+          "user_id": 1,
+          "username": "nathan"
+        },
+        "book_edition": {
+          "title": "Towards a New Architecture",
+          "subtitle": "",
+          "authors": {
+            "author": "Le Corbusier"
+          },
+          "isbn": "0486250237",
+          "covers": {
+            "cover_small": "http://media.readernaut.com/book_covers/0486250237_t50.jpg",
+            "cover_medium": "http://media.readernaut.com/book_covers/0486250237_t100.jpg",
+            "cover_large": "http://media.readernaut.com/book_covers/0486250237_t150.jpg"
+          },
+          "permalink": "http://readernaut.com/nathan/books/0486250237/towards-a-new-architecture/"
+        },
+        "created": "2009-09-23 1:35 CDT", 
+        "modified": "2009-10-28 0:34 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0486250237/towards-a-new-architecture/"
+      },
+      
+      {
+        "reader_book_id": 171886,
+        "user": {
+          "user_id": 1,
+          "username": "nathan"
+        },
+        "book_edition": {
+          "title": "From Cliche to Archetype",
+          "subtitle": "",
+          "authors": {
+            "author": "Marshall McLuhan", 
+            "author": "Wilfred Watson"
+          },
+          "isbn": "B0028GH156",
+          "covers": {
+            "cover_small": "http://media.readernaut.com/book_covers/B0028GH156__t50.jpg",
+            "cover_medium": "http://media.readernaut.com/book_covers/B0028GH156__t100.jpg",
+            "cover_large": "http://media.readernaut.com/book_covers/B0028GH156__t150.jpg"
+          },
+          "permalink": "http://readernaut.com/nathan/books/B0028GH156/from-cliche-to-archetype/"
+        },
+        "created": "2009-09-13 12:25 CDT", 
+        "modified": "2009-11-14 11:22 CST",
+        "permalink": "http://readernaut.com/nathan/books/B0028GH156/from-cliche-to-archetype/"
+      },
+      
+      {
+        "reader_book_id": 169152,
+        "user": {
+          "user_id": 1,
+          "username": "nathan"
+        },
+        "book_edition": {
+          "title": "Frank Lloyd Wright",
+          "subtitle": "Essential Texts",
+          "authors": {
+          },
+          "isbn": "0393732614",
+          "covers": {
+            "cover_small": "http://media.readernaut.com/book_covers/0393732614_t50.jpg",
+            "cover_medium": "http://media.readernaut.com/book_covers/0393732614_t100.jpg",
+            "cover_large": "http://media.readernaut.com/book_covers/0393732614_t150.jpg"
+          },
+          "permalink": "http://readernaut.com/nathan/books/0393732614/frank-lloyd-wright/"
+        },
+        "created": "2009-09-06 20:35 CDT", 
+        "modified": "2009-09-06 20:38 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0393732614/frank-lloyd-wright/"
+      },
+      
+      {
+        "reader_book_id": 156197,
+        "user": {
+          "user_id": 1,
+          "username": "nathan"
+        },
+        "book_edition": {
+          "title": "Utopia",
+          "subtitle": "Thomas More",
+          "authors": {
+            "author": "Sir", 
+            "author": "Thomas", 
+            "author": "Saint More"
+          },
+          "isbn": "0300084293",
+          "covers": {
+            "cover_small": "http://media.readernaut.com/book_covers/0300084293_t50.jpg",
+            "cover_medium": "http://media.readernaut.com/book_covers/0300084293_t100.jpg",
+            "cover_large": "http://media.readernaut.com/book_covers/0300084293_t150.jpg"
+          },
+          "permalink": "http://readernaut.com/nathan/books/0300084293/utopia/"
+        },
+        "created": "2009-08-06 0:18 CDT", 
+        "modified": "2009-08-15 10:12 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0300084293/utopia/"
+      },
+      
+      {
+        "reader_book_id": 138377,
+        "user": {
+          "user_id": 1,
+          "username": "nathan"
+        },
+        "book_edition": {
+          "title": "The Pleasures and Sorrows of Work",
+          "subtitle": "",
+          "authors": {
+            "author": "Alain De Botton"
+          },
+          "isbn": "037542444X",
+          "covers": {
+            "cover_small": "http://media.readernaut.com/book_covers/037542444X_t50.jpg",
+            "cover_medium": "http://media.readernaut.com/book_covers/037542444X_t100.jpg",
+            "cover_large": "http://media.readernaut.com/book_covers/037542444X_t150.jpg"
+          },
+          "permalink": "http://readernaut.com/nathan/books/037542444X/the-pleasures-and-sorrows-of-work/"
+        },
+        "created": "2009-06-17 22:31 CDT", 
+        "modified": "2009-08-24 1:34 CDT",
+        "permalink": "http://readernaut.com/nathan/books/037542444X/the-pleasures-and-sorrows-of-work/"
+      },
+      
+      {
+        "reader_book_id": 39162,
+        "user": {
+          "user_id": 1,
+          "username": "nathan"
+        },
+        "book_edition": {
+          "title": "1776",
+          "subtitle": "",
+          "authors": {
+            "author": "David McCullough"
+          },
+          "isbn": "0743226720",
+          "covers": {
+            "cover_small": "http://media.readernaut.com/book_covers/0743226720_t50.jpg",
+            "cover_medium": "http://media.readernaut.com/book_covers/0743226720_t100.jpg",
+            "cover_large": "http://media.readernaut.com/book_covers/0743226720_t150.jpg"
+          },
+          "permalink": "http://readernaut.com/nathan/books/0743226720/1776/"
+        },
+        "created": "2008-12-03 21:11 CST", 
+        "modified": "2009-08-31 1:08 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0743226720/1776/"
+      },
+      
+      {
+        "reader_book_id": 27953,
+        "user": {
+          "user_id": 1,
+          "username": "nathan"
+        },
+        "book_edition": {
+          "title": "The Adams\x2DJefferson Letters",
+          "subtitle": "The Complete Correspondence Between Thomas Jefferson and Abigail and John Adams",
+          "authors": {
+            "author": "John Adams", 
+            "author": "Lester J. Cappon"
+          },
+          "isbn": "0807842303",
+          "covers": {
+            "cover_small": "http://media.readernaut.com/book_covers/0807842303_t50.jpg",
+            "cover_medium": "http://media.readernaut.com/book_covers/0807842303_t100.jpg",
+            "cover_large": "http://media.readernaut.com/book_covers/0807842303_t150.jpg"
+          },
+          "permalink": "http://readernaut.com/nathan/books/0807842303/the-adams-jefferson-letters/"
+        },
+        "created": "2008-10-05 1:34 CDT", 
+        "modified": "2009-05-08 10:57 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0807842303/the-adams-jefferson-letters/"
+      },
+      
+      {
+        "reader_book_id": 4640,
+        "user": {
+          "user_id": 1,
+          "username": "nathan"
+        },
+        "book_edition": {
+          "title": "Programming Collective Intelligence",
+          "subtitle": "Building Smart Web 2.0 Applications",
+          "authors": {
+            "author": "Toby Segaran"
+          },
+          "isbn": "0596529325",
+          "covers": {
+            "cover_small": "http://media.readernaut.com/book_covers/0596529325_t50.jpg",
+            "cover_medium": "http://media.readernaut.com/book_covers/0596529325_t100.jpg",
+            "cover_large": "http://media.readernaut.com/book_covers/0596529325_t150.jpg"
+          },
+          "permalink": "http://readernaut.com/nathan/books/0596529325/programming-collective-intelligence/"
+        },
+        "created": "2008-08-16 1:19 CDT", 
+        "modified": "2009-05-08 10:56 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0596529325/programming-collective-intelligence/"
+      },
+      
+      {
+        "reader_book_id": 1976,
+        "user": {
+          "user_id": 1,
+          "username": "nathan"
+        },
+        "book_edition": {
+          "title": "Infinite Jest",
+          "subtitle": "",
+          "authors": {
+            "author": "David Foster Wallace"
+          },
+          "isbn": "0316066524",
+          "covers": {
+            "cover_small": "http://media.readernaut.com/book_covers/0316066524_t50.jpg",
+            "cover_medium": "http://media.readernaut.com/book_covers/0316066524_t100.jpg",
+            "cover_large": "http://media.readernaut.com/book_covers/0316066524_t150.jpg"
+          },
+          "permalink": "http://readernaut.com/nathan/books/0316066524/infinite-jest/"
+        },
+        "created": "2008-08-11 1:53 CDT", 
+        "modified": "2009-07-26 8:48 CDT",
+        "permalink": "http://readernaut.com/nathan/books/0316066524/infinite-jest/"
+      },
+      
+      {
+        "reader_book_id": 1975,
+        "user": {
+          "user_id": 1,
+          "username": "nathan"
+        },
+        "book_edition": {
+          "title": "Sketching User Experiences",
+          "subtitle": "Getting the Design Right and the Right Design",
+          "authors": {
+            "author": "Bill Buxton"
+          },
+          "isbn": "0123740371",
+          "covers": {
+            "cover_small": "http://media.readernaut.com/book_covers/0123740371__t50.jpg",
+            "cover_medium": "http://media.readernaut.com/book_covers/0123740371__t100.jpg",
+            "cover_large": "http://media.readernaut.com/book_covers/0123740371__t150.jpg"
+          },
+          "permalink": "http://readernaut.com/nathan/books/0123740371/sketching-user-experiences/"
+        },
+        "created": "2008-08-11 1:53 CDT", 
+        "modified": "2009-11-05 0:32 CST",
+        "permalink": "http://readernaut.com/nathan/books/0123740371/sketching-user-experiences/"
+      }
+      
+    ]
+}
+
