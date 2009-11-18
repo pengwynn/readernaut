@@ -29,7 +29,7 @@ class TestReadernaut < Test::Unit::TestCase
     
     should "retrieve a list of books being read for a user" do
       stub_get "http://readernaut.com/api/v1/json/nathan/books/reading/", "books_currently_reading.json"
-      results = Readernaut.books_currently_reading('nathan')
+      results = Readernaut.books_reading('nathan')
       edition = results.reader_books.first.book_edition
       edition.title.should == "Towards a New Architecture"
       edition.isbn.should == '0486250237'
